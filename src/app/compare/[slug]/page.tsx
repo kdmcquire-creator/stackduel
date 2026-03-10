@@ -33,7 +33,7 @@ export default function ComparePage({ params }: PageProps) {
         <div className="border rounded-lg p-6">
           <div className="relative h-48 w-full mb-4">
             <Image
-              src={product1.image}
+              src={product1.image || ''}
               alt={product1.name}
               fill
               className="object-contain"
@@ -41,8 +41,11 @@ export default function ComparePage({ params }: PageProps) {
           </div>
           <h2 className="text-2xl font-bold mb-2">{product1.name}</h2>
           <p className="text-gray-600 mb-4">{product1.description}</p>
-          <div className="text-xl font-bold">
-            Starting at ${product1.pricing.startingPrice}
+          <div className="space-y-2">
+            <div className="flex justify-between">
+              <span className="font-semibold">Starting Price:</span>
+              <span>${product1.pricing.startingPrice}</span>
+            </div>
           </div>
         </div>
 
@@ -50,7 +53,7 @@ export default function ComparePage({ params }: PageProps) {
         <div className="border rounded-lg p-6">
           <div className="relative h-48 w-full mb-4">
             <Image
-              src={product2.image}
+              src={product2.image || ''}
               alt={product2.name}
               fill
               className="object-contain"
@@ -58,12 +61,15 @@ export default function ComparePage({ params }: PageProps) {
           </div>
           <h2 className="text-2xl font-bold mb-2">{product2.name}</h2>
           <p className="text-gray-600 mb-4">{product2.description}</p>
-          <div className="text-xl font-bold">
-            Starting at ${product2.pricing.startingPrice}
+          <div className="space-y-2">
+            <div className="flex justify-between">
+              <span className="font-semibold">Starting Price:</span>
+              <span>${product2.pricing.startingPrice}</span>
+            </div>
           </div>
         </div>
       </div>
-      <div className="mt-12 text-center">
+      <div className="mt-8 text-center">
         <Link href="/" className="text-blue-600 hover:underline">
           Back to all products
         </Link>
