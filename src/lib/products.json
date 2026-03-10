@@ -25,20 +25,19 @@
     "description": "An all-in-one customer platform that brings together everything scaling companies need to deliver a best-in-class customer experience.",
     "features": ["Sales Hub", "Marketing Hub", "Service Hub", "Free CRM", "Automation"],
     "pros": ["User friendly", "Great free tier", "Powerful automation"],
-    "cons": ["Can get expensive quickly", "Limited reporting in lower tiers"]
-  },
+    "cons": ["Can get expensive quickly", "Limited reporting in lower tiers",
   {
-    "id": "salesforce",
-    "name": "Salesforce",
-    "slug": "salesforce",
-    "category": "CRM",
-    "tagline": "The world's #1 CRM",
-    "logo": "https://a.sfdcstatic.com/shared/images/c360-nav/salesforce-with-type-logo.svg",
-    "affiliateUrl": "#",
-    "pricing": { "startingPrice": 25, "billingPeriod": "user/mo", "free": false },
-    "description": "Salesforce helps companies connect with customers in a whole new way, leveraging AI + Data + CRM.",
-    "features": ["Sales Cloud", "Service Cloud", "Slack Integration", "Tableau Analytics", "Custom Objects"],
-    "pros": ["Extremely customizable", "Scales to any size", "Deep reporting"],
-    "cons": ["High complexity", "Requires implementation specialist", "Steep learning curve"]
+    "id": "claude",
+    "name": "Claude",
+    "slug": "claude",
+    "category": "AI Content Tools",
+    "tagline": "Next-generation AI assistant by Anthropic",
+    "logo": "https://www.anthropic.com/favicon.ico",
+    "affiliateUrl": "https://claude.ai",
+    "pricing": { "startingPrice": 0, "billingPeriod": "mo", "free": true },
+    "description": "Claude is a next-generation AI assistant based on Anthropic's research into training helpful, honest, and harmless AI systems.",
+    "features": ["Advanced Reasoning", "Large Context Window", "Coding Assistance", "Creative Writing", "Vision Support"],
+    "pros": ["Highly intelligent", "Natural conversation", "Large context window"],
+    "cons": ["Free tier limits", "No built-in image generation"]
   }
 ]
