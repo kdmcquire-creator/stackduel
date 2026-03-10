@@ -1,1 +1,20 @@
-[\n  {\n    "id": "hubspot",\n    "name": "HubSpot",\n    "category": "CRM",\n    "tagline": "The leading inbound marketing and sales platform",\n    "logo": "https://www.hubspot.com/hubfs/assets/hubspot.com/style-guide/brand-guidelines/guidelines_logo_1.5.png",\n    "affiliateUrl": "https://hubspot.sjv.io/shane",\n    "pricing": "Free to $3,200/mo",\n    "pros": ["User friendly", "Great free tier", "Powerful automation"],\n    "cons": ["Can get expensive quickly", "Limited reporting in lower tiers"]\n  },\n  {\n    "id": "activecampaign",\n    "name": "ActiveCampaign",\n    "category": "Email Marketing",\n    "tagline": "Powering customer experience automation",\n    "logo": "https://www.activecampaign.com/wp-content/uploads/2021/06/ac-logo.svg",\n    "affiliateUrl": "https://activecampaign.sjv.io/shane",\n    "pricing": "$9/mo to $259/mo",\n    "pros": ["Best-in-class automation", "Strong CRM features", "Advanced segmentation"],\n    "cons": ["Learning curve", "UI can be cluttered"]\n  }\n]
+[\n  {\n    "id": "hubspot",\n    "name": "HubSpot",\n    "category": "CRM",\n    "tagline": "The leading inbound marketing and sales platform",\n    "logo": "https://www.hubspot.com/hubfs/assets/hubspot.com/style-guide/brand-guidelines/guidelines_logo_1.5.png",\n    "affiliateUrl": "https://hubspot.sjv.io/shane",\n    "pricing": "Free to $3,200/mo",\n    "pros": ["User friendly", "Great free tier", "Powerful automation"],\n    "cons": ["Can get expensive quickly", "Limited reporting in lower tiers"]\n  },\n  {\n    "id": "activecampaign",\n    "name": "ActiveCampaign",\n    "category": "Email Marketing",\n    "tagline": "Powering customer experience automation",\n    "logo": "https://www.activecampaign.com/wp-content/uploads/2021/06/ac-logo.svg",\n    "affiliateUrl": "https://activecampaign.sjv.io/shane",\n    "pricing": "$9/mo to $259/mo",\n    "pros": ["Best-in-class automation", "Strong CRM features", "Advanced segmentation"],\n    "cons": ["Learning curve", "UI can be cluttered"]\n  }\n,
+  {
+  "id": "seranking",
+  "name": "SE Ranking",
+  "category": "SEO Tools",
+  "tagline": "The all-in-one SEO platform for businesses",
+  "logo": "https://seranking.com/favicon.ico",
+  "affiliateUrl": "https://seranking.com/?ga=5009081&source=link",
+  "pricing": "Starting at $44/mo",
+  "pros": [
+    "Accurate keyword tracking",
+    "Comprehensive site audits",
+    "Great value"
+  ],
+  "cons": [
+    "Interface can be complex for beginners",
+    "Social media tools are basic"
+  ]
+}
+]
