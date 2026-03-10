@@ -14,8 +14,18 @@ export default function Home() {
               </a>
             </li>
             <li>
+              <a href="/compare/ahrefs-vs-seranking" className="text-blue-600 hover:underline">
+                Ahrefs vs SE Ranking
+              </a>
+            </li>
+            <li>
               <a href="/compare/hubspot-vs-salesforce" className="text-blue-600 hover:underline">
                 HubSpot vs Salesforce
+              </a>
+            </li>
+            <li>
+              <a href="/compare/clickup-vs-asana" className="text-blue-600 hover:underline">
+                ClickUp vs Asana
               </a>
             </li>
             <li>
