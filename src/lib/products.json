@@ -1,4 +1,18 @@
-,\n  {\n    "id": "viralcanvas",\n    "name": "ViralCanvas",\n    "slug": "viralcanvas",\n    "category": "AI Content Tools",\n    "tagline": "AI-powered content creation at half the price",\n    "logo": "https://viralcanvas.ai/favicon.ico",\n    "affiliateUrl": "https://viralcanvas.ai/?ref=kyle",\n    "pricing": { "startingPrice": 10, "billingPeriod": "mo", "free": true },\n    "description": "ViralCanvas gives your audience access to premium Claude models at half the price of a standalone subscription, plus video transcription and visual organization.",\n    "features": ["Claude 4.6 Access", "Video Transcription", "Visual Workspace", "Content Frameworks", "Document Reading"],\n    "pros": ["Highly affordable", "Premium AI models", "Creator-focused workflows"],\n    "cons": ["Newer platform", "Smaller feature set than giants"]\n  }[
+[
+  {
+    "id": "viralcanvas",
+    "name": "ViralCanvas",
+    "slug": "viralcanvas",
+    "category": "AI Content Tools",
+    "tagline": "AI-powered content creation at half the price",
+    "logo": "https://viralcanvas.ai/favicon.ico",
+    "affiliateUrl": "https://viralcanvas.ai/?ref=kyle",
+    "pricing": { "startingPrice": 10, "billingPeriod": "mo", "free": true },
+    "description": "ViralCanvas gives your audience access to premium Claude models at half the price of a standalone subscription, plus video transcription and visual organization.",
+    "features": ["Claude 4.6 Access", "Video Transcription", "Visual Workspace", "Content Frameworks", "Document Reading"],
+    "pros": ["Highly affordable", "Premium AI models", "Creator-focused workflows"],
+    "cons": ["Newer platform", "Smaller feature set than giants"]
+  },
   {
     "id": "hubspot",
     "name": "HubSpot",
@@ -26,103 +40,5 @@
     "features": ["Sales Cloud", "Service Cloud", "Slack Integration", "Tableau Analytics", "Custom Objects"],
     "pros": ["Extremely customizable", "Scales to any size", "Deep reporting"],
     "cons": ["High complexity", "Requires implementation specialist", "Steep learning curve"]
-  },
-  {
-    "id": "activecampaign",
-    "name": "ActiveCampaign",
-    "slug": "activecampaign",
-    "category": "Email Marketing",
-    "tagline": "Powering customer experience automation",
-    "logo": "https://www.activecampaign.com/wp-content/uploads/2021/06/ac-logo.svg",
-    "affiliateUrl": "https://activecampaign.sjv.io/shane",
-    "pricing": { "startingPrice": 9, "billingPeriod": "mo", "free": false },
-    "description": "ActiveCampaign gives you the email marketing, marketing automation, and CRM tools you need to create incredible customer experiences.",
-    "features": ["Automation", "Email Marketing", "Sales CRM", "Segmenting", "Lead Scoring"],
-    "pros": ["Best-in-class automation", "Strong CRM features", "Advanced segmentation"],
-    "cons": ["Learning curve", "UI can be cluttered"]
-  },
-  {
-    "id": "mailchimp",
-    "name": "Mailchimp",
-    "slug": "mailchimp",
-    "category": "Email Marketing",
-    "tagline": "Grow your business your way",
-    "logo": "https://mailchimp.com/release/plums/release/images/brand_assets/logos/mailchimp-logo-dark.svg",
-    "affiliateUrl": "#",
-    "pricing": { "startingPrice": 0, "billingPeriod": "mo", "free": true },
-    "description": "Mailchimp is the all-in-one marketing platform that helps you build your brand and grow your business.",
-    "features": ["Email Templates", "Marketing CRM", "Audience Management", "A/B Testing", "Retargeting Ads"],
-    "pros": ["Easy to use", "Beautiful templates", "Solid free plan"],
-    "cons": ["Automation can be limited", "Expensive as list grows"]
-  },
-  {
-    "id": "seranking",
-    "name": "SE Ranking",
-    "slug": "seranking",
-    "category": "SEO Tools",
-    "tagline": "The all-in-one SEO platform for businesses",
-    "logo": "https://seranking.com/favicon.ico",
-    "affiliateUrl": "https://seranking.com/?ga=5009081&source=link",
-    "pricing": { "startingPrice": 44, "billingPeriod": "mo", "free": false },
-    "description": "A comprehensive SEO platform that provides keyword research, rank tracking, and website audits at an affordable price.",
-    "features": ["Keyword Research", "Rank Tracking", "Backlink Checker", "Competitor Analysis", "Site Audit"],
-    "pros": ["Accurate data", "Great value for money", "Comprehensive audits"],
-    "cons": ["Interface can be complex", "Social tools are basic"]
-  },
-  {
-    "id": "semrush",
-    "name": "Semrush",
-    "slug": "semrush",
-    "category": "SEO Tools",
-    "tagline": "Online Visibility Management Platform",
-    "logo": "https://static.semrush.com/static/semrush-logo.svg",
-    "affiliateUrl": "#",
-    "pricing": { "startingPrice": 129, "billingPeriod": "mo", "free": true },
-    "description": "Semrush is a leading online visibility management SaaS platform that enables businesses to run SEO, PPC, and social media campaigns.",
-    "features": ["Keyword Overview", "Link Building", "Advertising Research", "Market Analysis", "Topic Research"],
-    "pros": ["Industry standard", "Massive data sets", "Excellent reporting"],
-    "cons": ["High price point", "UI can be overwhelming"]
-  },
-  {
-    "id": "quickbooks",
-    "name": "QuickBooks",
-    "slug": "quickbooks",
-    "category": "Accounting",
-    "tagline": "The #1 accounting software for small businesses",
-    "logo": "https://quickbooks.intuit.com/content/dam/intuit/quickbooks/en_us/brand/logos/qb_logo_green.svg",
-    "affiliateUrl": "#",
-    "pricing": { "startingPrice": 30, "billingPeriod": "mo", "free": false },
-    "description": "Smart, simple accounting software for small businesses to track income, expenses, and stay tax-ready.",
-    "features": ["Invoicing", "Expense Tracking", "Payroll", "Inventory Management", "Reports"],
-    "pros": ["Wide accounting support", "Scalable", "Robust features"],
-    "cons": ["Higher cost", "Complex for non-accountants"]
-  },
-  {
-    "id": "freshbooks",
-    "name": "FreshBooks",
-    "slug": "freshbooks",
-    "category": "Accounting",
-    "tagline": "Simple bookkeeping for small businesses",
-    "logo": "https://www.freshbooks.com/wp-content/themes/freshbooks/assets/images/freshbooks-logo.svg",
-    "affiliateUrl": "#",
-    "pricing": { "startingPrice": 17, "billingPeriod": "mo", "free": false },
-    "description": "FreshBooks is an easy-to-use accounting software that makes invoicing, tracking expenses, and following up with clients faster.",
-    "features": ["Invoicing", "Time Tracking", "Project Management", "Proposals", "Online Payments"],
-    "pros": ["Excellent UI", "Great time tracking", "Very user-friendly"],
-    "cons": ["Limited reporting", "Not for complex inventory"]
-  },
-  {
-    "id": "monday",
-    "name": "Project Management",
-    "slug": "monday",
-    "category": "Project Management",
-    "tagline": "A platform built for a new way of working",
-    "logo": "https://monday.com/static/img/monday-logo-x2.png",
-    "affiliateUrl": "#",
-    "pricing": { "startingPrice": 8, "billingPeriod": "user/mo", "free": true },
-    "description": "monday.com is a work OS that allows organizations to create the tools they need to run every aspect of their work.",
-    "features": ["Custom Workflows", "Automations", "Gantt Charts", "Time Tracking", "Collaboration"],
-    "pros": ["Visually appealing", "Very flexible", "Excellent support"],
-    "cons": ["Learning curve", "Complexity can increase cost"]
   }
 ]
