@@ -7,11 +7,28 @@
     "tagline": "AI-powered content creation at half the price",
     "logo": "https://viralcanvas.ai/favicon.ico",
     "affiliateUrl": "https://viralcanvas.ai/?ref=kyle",
-    "pricing": { "startingPrice": 10, "billingPeriod": "mo", "free": true },
+    "pricing": {
+      "startingPrice": 10,
+      "billingPeriod": "mo",
+      "free": true
+    },
     "description": "ViralCanvas gives your audience access to premium Claude models at half the price of a standalone subscription, plus video transcription and visual organization.",
-    "features": ["Claude 4.6 Access", "Video Transcription", "Visual Workspace", "Content Frameworks", "Document Reading"],
-    "pros": ["Highly affordable", "Premium AI models", "Creator-focused workflows"],
-    "cons": ["Newer platform", "Smaller feature set than giants"]
+    "features": [
+      "Claude 4.6 Access",
+      "Video Transcription",
+      "Visual Workspace",
+      "Content Frameworks",
+      "Document Reading"
+    ],
+    "pros": [
+      "Highly affordable",
+      "Premium AI models",
+      "Creator-focused workflows"
+    ],
+    "cons": [
+      "Newer platform",
+      "Smaller feature set than giants"
+    ]
   },
   {
     "id": "hubspot",
@@ -21,11 +38,29 @@
     "tagline": "The leading inbound marketing and sales platform",
     "logo": "https://www.hubspot.com/hubfs/assets/hubspot.com/style-guide/brand-guidelines/guidelines_logo_1.5.png",
     "affiliateUrl": "https://hubspot.sjv.io/shane",
-    "pricing": { "startingPrice": 0, "billingPeriod": "mo", "free": true },
+    "pricing": {
+      "startingPrice": 0,
+      "billingPeriod": "mo",
+      "free": true
+    },
     "description": "An all-in-one customer platform that brings together everything scaling companies need to deliver a best-in-class customer experience.",
-    "features": ["Sales Hub", "Marketing Hub", "Service Hub", "Free CRM", "Automation"],
-    "pros": ["User friendly", "Great free tier", "Powerful automation"],
-    "cons": ["Can get expensive quickly", "Limited reporting in lower tiers",
+    "features": [
+      "Sales Hub",
+      "Marketing Hub",
+      "Service Hub",
+      "Free CRM",
+      "Automation"
+    ],
+    "pros": [
+      "User friendly",
+      "Great free tier",
+      "Powerful automation"
+    ],
+    "cons": [
+      "Can get expensive quickly",
+      "Limited reporting in lower tiers"
+    ]
+  },
   {
     "id": "claude",
     "name": "Claude",
@@ -34,10 +69,182 @@
     "tagline": "Next-generation AI assistant by Anthropic",
     "logo": "https://www.anthropic.com/favicon.ico",
     "affiliateUrl": "https://claude.ai",
-    "pricing": { "startingPrice": 0, "billingPeriod": "mo", "free": true },
+    "pricing": {
+      "startingPrice": 0,
+      "billingPeriod": "mo",
+      "free": true
+    },
     "description": "Claude is a next-generation AI assistant based on Anthropic's research into training helpful, honest, and harmless AI systems.",
-    "features": ["Advanced Reasoning", "Large Context Window", "Coding Assistance", "Creative Writing", "Vision Support"],
-    "pros": ["Highly intelligent", "Natural conversation", "Large context window"],
-    "cons": ["Free tier limits", "No built-in image generation"]
+    "features": [
+      "Advanced Reasoning",
+      "Large Context Window",
+      "Coding Assistance",
+      "Creative Writing",
+      "Vision Support"
+    ],
+    "pros": [
+      "Highly intelligent",
+      "Natural conversation",
+      "Large context window"
+    ],
+    "cons": [
+      "Free tier limits",
+      "No built-in image generation"
+    ]
+  },
+  {
+    "id": "ahrefs",
+    "name": "Ahrefs",
+    "slug": "ahrefs",
+    "category": "SEO Tools",
+    "tagline": "Everything you need to rank higher & get more traffic",
+    "logo": "https://static.ahrefs.com/favicon.ico",
+    "affiliateUrl": "#",
+    "pricing": {
+      "startingPrice": 99,
+      "billingPeriod": "mo",
+      "free": false
+    },
+    "description": "Ahrefs is an all-in-one SEO toolset that helps you with backlink analysis, keyword research, and competitor audits.",
+    "features": [
+      "Site Explorer",
+      "Keywords Explorer",
+      "Content Explorer",
+      "Rank Tracker",
+      "Site Audit"
+    ],
+    "pros": [
+      "Best backlink data",
+      "Detailed keyword metrics",
+      "Clean UI"
+    ],
+    "cons": [
+      "Expensive starting price",
+      "Limited credit system"
+    ]
+  },
+  {
+    "id": "clickup",
+    "name": "ClickUp",
+    "slug": "clickup",
+    "category": "Project Management",
+    "tagline": "One app to replace them all",
+    "logo": "https://clickup.com/favicon.ico",
+    "affiliateUrl": "#",
+    "pricing": {
+      "startingPrice": 0,
+      "billingPeriod": "user/mo",
+      "free": true
+    },
+    "description": "ClickUp is a versatile project management tool that combines tasks, docs, goals, and chat in one place.",
+    "features": [
+      "Task Management",
+      "Custom Fields",
+      "Time Tracking",
+      "Whiteboards",
+      "Automations"
+    ],
+    "pros": [
+      "Highly customizable",
+      "Generous free tier",
+      "Feature-rich"
+    ],
+    "cons": [
+      "Steep learning curve",
+      "Performance can be slow"
+    ]
+  },
+  {
+    "id": "asana",
+    "name": "Asana",
+    "slug": "asana",
+    "category": "Project Management",
+    "tagline": "Work anytime, anywhere with Asana",
+    "logo": "https://asana.com/favicon.ico",
+    "affiliateUrl": "#",
+    "pricing": {
+      "startingPrice": 10.99,
+      "billingPeriod": "user/mo",
+      "free": true
+    },
+    "description": "Asana is a leading work management platform that helps teams coordinate their work, from daily tasks to strategic initiatives.",
+    "features": [
+      "Timeline View",
+      "Portfolios",
+      "Workload Management",
+      "Forms",
+      "Custom Rules"
+    ],
+    "pros": [
+      "Intuitive interface",
+      "Excellent for complex projects",
+      "Strong collaboration"
+    ],
+    "cons": [
+      "Expensive paid tiers",
+      "Limited export options"
+    ]
+  },
+  {
+    "id": "jasper",
+    "name": "Jasper AI",
+    "slug": "jasper",
+    "category": "AI Content Tools",
+    "tagline": "Your AI Content Co-Pilot",
+    "logo": "https://www.jasper.ai/favicon.ico",
+    "affiliateUrl": "#",
+    "pricing": {
+      "startingPrice": 39,
+      "billingPeriod": "mo",
+      "free": false
+    },
+    "description": "Jasper is an AI writing assistant that helps you create high-quality marketing copy, blog posts, and more.",
+    "features": [
+      "Brand Voice",
+      "Content Templates",
+      "AI Art Generation",
+      "SEO Integration",
+      "Team Collaboration"
+    ],
+    "pros": [
+      "Excellent copy quality",
+      "Great brand alignment",
+      "User-friendly"
+    ],
+    "cons": [
+      "High price",
+      "Strict usage limits"
+    ]
+  },
+  {
+    "id": "prowritingaid",
+    "name": "ProWritingAid",
+    "slug": "prowritingaid",
+    "category": "AI Content Tools",
+    "tagline": "A grammar checker, style editor, and writing mentor in one",
+    "logo": "https://prowritingaid.com/favicon.ico",
+    "affiliateUrl": "https://www.prowritingaid.com/",
+    "pricing": {
+      "startingPrice": 0,
+      "billingPeriod": "mo",
+      "free": true
+    },
+    "description": "ProWritingAid offers world-class grammar and style checking combined with more in-depth reports to help you strengthen your writing.",
+    "features": [
+      "Grammar Checker",
+      "Style Suggestions",
+      "Plagiarism Checker",
+      "Detailed Reports",
+      "Browser Extensions"
+    ],
+    "pros": [
+      "Deep analysis",
+      "Affordable lifetime plan",
+      "Excellent educational content"
+    ],
+    "cons": [
+      "UI can be dated",
+      "Mobile app is limited"
+    ]
   }
 ]
