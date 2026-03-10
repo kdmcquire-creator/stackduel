@@ -4,7 +4,7 @@ export interface Product {
   slug: string;
   description: string;
   pricing: {
-    startingPrice: string;
+    startingPrice: number;
     billingPeriod: string;
     free: boolean;
   };
