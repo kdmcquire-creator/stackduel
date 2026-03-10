@@ -1,1 +1,1 @@
-export interface Product {\n  id: string;\n  name: string;\n  category: string;\n  tagline: string;\n  logo: string;\n  affiliateUrl: string;\n  pricing: string;\n  pros: string[];\n  cons: string[];\n}
+export interface Product {\n  id: string;\n  slug: string;\n  name: string;\n  category: string;\n  tagline: string;\n  logo: string;\n  affiliateUrl: string;\n  pricing: string;\n  pros: string[];\n  cons: string[];\n}
