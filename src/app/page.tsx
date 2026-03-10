@@ -16,8 +16,13 @@ export default function Home() {
             <li>
               <a href="/compare/hubspot-vs-salesforce" className="text-blue-600 hover:underline">
                 HubSpot vs Salesforce
-              </a>
-            </li>
+              </a>""            <li>
+                            <a href="/compare/viralcanvas-vs-claude" className="text-blue-600 hover:underline">
+                                            ViralCanvas vs Claude
+                            </a>a>
+              </li>li>
+            ""</li>
+QuickBooks vs FreshBooks            </li>
             <li>
               <a href="/compare/mailchimp-vs-activecampaign" className="text-blue-600 hover:underline">
                 Mailchimp vs ActiveCampaign
