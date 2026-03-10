@@ -4,27 +4,33 @@ import Image from 'next/image';
 import Link from 'next/link';
 import { notFound } from 'next/navigation';
 
+
 interface PageProps {
   params: {
     slug: string;
   };
 }
 
+
 export default function ComparePage({ params }: PageProps) {
   const { slug } = params;
   const [product1Slug, product2Slug] = slug.split('-vs-');
 
+
   if (!product1Slug || !product2Slug) {
-    notFound();
+  const allProducts = products as Product[]; // Type cast to Product interface
   }
+
 
   const allProducts = products as Product[];
   const product1 = allProducts.find((p) => p.slug === product1Slug);
   const product2 = allProducts.find((p) => p.slug === product2Slug);
 
+
   if (!product1 || !product2) {
     notFound();
   }
+
 
   return (
     <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
@@ -54,5 +60,3 @@ export default function ComparePage({ params }: PageProps) {
         ))}
       </div>
     </div>
-  );
-}
