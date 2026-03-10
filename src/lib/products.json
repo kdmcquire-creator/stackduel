@@ -1,4 +1,4 @@
-[
+,\n  {\n    "id": "viralcanvas",\n    "name": "ViralCanvas",\n    "slug": "viralcanvas",\n    "category": "AI Content Tools",\n    "tagline": "AI-powered content creation at half the price",\n    "logo": "https://viralcanvas.ai/favicon.ico",\n    "affiliateUrl": "https://viralcanvas.ai/?ref=kyle",\n    "pricing": { "startingPrice": 10, "billingPeriod": "mo", "free": true },\n    "description": "ViralCanvas gives your audience access to premium Claude models at half the price of a standalone subscription, plus video transcription and visual organization.",\n    "features": ["Claude 4.6 Access", "Video Transcription", "Visual Workspace", "Content Frameworks", "Document Reading"],\n    "pros": ["Highly affordable", "Premium AI models", "Creator-focused workflows"],\n    "cons": ["Newer platform", "Smaller feature set than giants"]\n  }[
   {
     "id": "hubspot",
     "name": "HubSpot",
