@@ -124,6 +124,37 @@
     ]
   },
   {
+    "id": "signwell",
+    "name": "SignWell",
+    "slug": "signwell",
+    "category": "Productivity Tools",
+    "tagline": "Legally-binding e-signatures made simple",
+    "logo": "https://www.signwell.com/favicon.ico",
+    "affiliateUrl": "https://www.signwell.com?via=shane-mitchell",
+    "pricing": {
+      "startingPrice": 0,
+      "billingPeriod": "mo",
+      "free": true
+    },
+    "description": "SignWell is a free e-signature tool that helps you get documents signed faster with legal validity and tracking.",
+    "features": [
+      "Legally-binding E-signatures",
+      "Document Tracking",
+      "Reusable Templates",
+      "Team Collaboration",
+      "Compliance Logging"
+    ],
+    "pros": [
+      "Extremely easy to use",
+      "Free tier available",
+      "Fast signing process"
+    ],
+    "cons": [
+      "Limited integrations on free plan",
+      "Basic document management"
+    ]
+  },
+  {
     "id": "hubspot",
     "name": "HubSpot",
     "slug": "hubspot",
