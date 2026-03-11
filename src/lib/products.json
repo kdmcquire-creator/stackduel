@@ -62,6 +62,68 @@
     ]
   },
   {
+    "id": "fireflies-ai",
+    "name": "Fireflies.ai",
+    "slug": "fireflies-ai",
+    "category": "AI Productivity Tools",
+    "tagline": "AI assistant to transcribe, summarize, and analyze meetings",
+    "logo": "https://fireflies.ai/favicon.ico",
+    "affiliateUrl": "https://app.fireflies.ai?via=shane",
+    "pricing": {
+      "startingPrice": 0,
+      "billingPeriod": "mo",
+      "free": true
+    },
+    "description": "Fireflies.ai helps your team record, transcribe, search, and analyze voice conversations across meetings and apps.",
+    "features": [
+      "AI Meeting Summaries",
+      "Searchable Transcripts",
+      "CRM Integrations",
+      "Sentiment Analysis",
+      "Mobile App"
+    ],
+    "pros": [
+      "Automates meeting notes",
+      "High transcription accuracy",
+      "Great integrations"
+    ],
+    "cons": [
+      "Privacy concerns for some",
+      "Advanced features need paid plan"
+    ]
+  },
+  {
+    "id": "rytr",
+    "name": "Rytr",
+    "slug": "rytr",
+    "category": "AI Content Tools",
+    "tagline": "A better, faster way to write",
+    "logo": "https://rytr.me/favicon.ico",
+    "affiliateUrl": "https://rytr.me?via=shane-mitchell",
+    "pricing": {
+      "startingPrice": 0,
+      "billingPeriod": "mo",
+      "free": true
+    },
+    "description": "Rytr is an AI writing assistant that helps you create high-quality content, in just a few seconds, at a fraction of the cost!",
+    "features": [
+      "40+ Use Cases",
+      "30+ Languages",
+      "20+ Tones",
+      "Built-in Plagiarism Checker",
+      "Browser Extension"
+    ],
+    "pros": [
+      "Extremely affordable",
+      "Great free plan",
+      "Clean, distraction-free UI"
+    ],
+    "cons": [
+      "Limited character counts on free plan",
+      "Some content requires human editing"
+    ]
+  },
+  {
     "id": "hubspot",
     "name": "HubSpot",
     "slug": "hubspot",
@@ -81,11 +143,6 @@
       "Service Hub",
       "Free CRM",
       "Automation"
-    ],
-    "pros": [
-      "User friendly",
-      "Great free tier",
-      "Powerfual automation"
     ],
     "pros": [
       "User friendly",
