@@ -31,6 +31,37 @@
     ]
   },
   {
+    "id": "originality-ai",
+    "name": "Originality AI",
+    "slug": "originality-ai",
+    "category": "AI Content Tools",
+    "tagline": "The most accurate AI content detector",
+    "logo": "https://originality.ai/favicon.ico",
+    "affiliateUrl": "https://originality.ai/?via=shane",
+    "pricing": {
+      "startingPrice": 14.95,
+      "billingPeriod": "mo",
+      "free": false
+    },
+    "description": "Originality.ai is the world's first AI detector and plagiarism checker built for content publishers and SEO professionals.",
+    "features": [
+      "AI Content Detection",
+      "Plagiarism Checker",
+      "Fact Checker",
+      "Team Management",
+      "API Access"
+    ],
+    "pros": [
+      "High accuracy",
+      "Built-in plagiarism tool",
+      "Easy to use"
+    ],
+    "cons": [
+      "No free tier",
+      "Can have false positives"
+    ]
+  },
+  {
     "id": "hubspot",
     "name": "HubSpot",
     "slug": "hubspot",
@@ -50,6 +81,11 @@
       "Service Hub",
       "Free CRM",
       "Automation"
+    ],
+    "pros": [
+      "User friendly",
+      "Great free tier",
+      "Powerfual automation"
     ],
     "pros": [
       "User friendly",
