@@ -8,6 +8,11 @@ const inter = Inter({ subsets: ["latin"] });
 export const metadata: Metadata = {
   title: "StackDuel | SaaS Comparisons & Best Tools",
   description: "Compare the best SaaS tools side by side and find the perfect stack for your business.",
+  verification: {
+    other: {
+      "google-adsense-account": ["ca-pub-5995172189982724"],
+    },
+  },
 };
 
 export default function RootLayout({
@@ -18,7 +23,6 @@ export default function RootLayout({
   return (
     <html lang="en">
       <head>
-        <meta name="google-adsense-account" content="ca-pub-5995172189982724" />
         <Script 
           async 
           src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5995172189982724" 
